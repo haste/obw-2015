@@ -1,313 +1,313 @@
 {
-    "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    10.714843,
-                    59.92919,
-                    0
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address": "Kirkeveien 64B, Oslo",
-                "description": "",
-                "hours": "tirs-tors 16:00-24:00, fre 16:00-02:00, lør 14:00-02:00, søn 14:00-24:00",
-                "image": "",
-                "name": "",
-                "phone": "90 600 333",
-                "provider": "Kverneriet",
-                "url": "http://www.kverneriet.com/oslo.html",
-                "vegetarian": true
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    10.726313,
-                    59.910622,
-                    0
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address": "Holmens gate 3, 0250 Oslo",
-                "description": "",
-                "hours": "man-tirs 11:00-22:00, ons-fre 11:00-24:00, lør 12:00-24:00, søn 12:00-22:00",
-                "image": "",
-                "name": "",
-                "phone": "21 08 22 75",
-                "provider": "Burger Joint",
-                "url": "http://www.burgerjoint.no/",
-                "vegetarian": false
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    10.748721,
-                    59.915693,
-                    0
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address": "Møllergata 23, 0179 Oslo",
-                "description": "",
-                "hours": "mon-tors 16:00-23:00, fri 16:00-01:00, lør 15:00-01:00, søn 15:00-22:00",
-                "image": "",
-                "name": "",
-                "phone": "22203302",
-                "provider": "Illegal Burger",
-                "url": "https://www.facebook.com/pages/Illegal-Burger/171199846244007",
-                "vegetarian": true
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    10.749944,
-                    59.914381,
-                    0
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address": "Folketeaterpassasjen, 0181 Oslo",
-                "description": "",
-                "hours": "tirs-tors 16:00-22:00, fre-lør 16:00-23:00",
-                "image": "",
-                "name": "",
-                "phone": "91158613",
-                "provider": "Burger Bar",
-                "url": "https://www.facebook.com/burgerbaroslo",
-                "vegetarian": true
-            },
-            "type": "Feature"
-        },
-				{
-						"geometry": {
-								"coordinates": [
-										10.7512593,
-										59.9164377,
-										0
-								],
-								"type": "Point"
-						},
-						"properties": {
-								"address": "Bernt Ankers gate 8",
-								"description": "",
-								"hours": "man-ons 11:00-22:00, tors 11:00-00:00, fre-lør 11:00-03:00 søn 11:00-22:00",
-								"image": "",
-								"name": "",
-								"phone": "97019787",
-								"provider": "Munchies",
-								"url": "http://www.munchiesoslo.no/",
-								"vegetarian": true
-						},
-						"type": "Feature"
-				},
-				{
-						"geometry": {
-								"coordinates": [
-										10.755038,
-										59.9121327,
-										0
-								],
-								"type": "Point"
-						},
-						"properties": {
-								"address": "Schweigaards gate 4",
-								"description": "",
-								"hours": "man-søn 11:30-22:00",
-								"image": "",
-								"name": "Café Fiasco",
-								"phone": "47174000",
-								"provider": "Café Fiasco",
-								"url": "http://fiasco.no/",
-								"vegetarian": true
-						},
-						"type": "Feature"
-				},
-        {
-            "geometry": {
-                "coordinates": [
-                    10.7587495,
-                    59.9222621,
-                    0
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address": "Thorvald Meyers gate 59",
-                "description": "",
-                "hours": "",
-                "image": "",
-                "name": "Ryes Bar",
-                "phone": "",
-                "provider": "Ryes Bar",
-                "url": "https://www.facebook.com/RyesOslo",
-                "vegetarian": true
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    10.7532857,
-                    59.9175641,
-                    0
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address": "Maridalsveien 13",
-                "description": "",
-                "hours": "",
-                "image": "",
-                "name": "Døgnvill Oslo, Vulkan",
-                "phone": "",
-                "provider": "Døgnvill Oslo, Vulkan",
-                "url": "http://dognvillburger.no/oslo/",
-                "vegetarian": true
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    10.7405131,
-                    59.9088833,
-                    0
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address": "Bankplassen 3",
-                "description": "",
-                "hours": "",
-                "image": "",
-                "name": "Grosch",
-                "phone": "21982190",
-                "provider": "Grosch",
-                "url": "http://www.groschcafe.no/",
-                "vegetarian": true
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    10.7244354,
-                    59.9093921,
-                    0
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address": "Bryggetorget 14",
-                "description": "",
-                "hours": "",
-                "image": "",
-                "name": "Beach Club",
-                "phone": "22838382",
-                "provider": "Beach Club",
-                "url": "http://www.beachclub.no/",
-                "vegetarian": true
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    10.7588122,
-                    59.9253907,
-                    0
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address": "Seilduksgata 15",
-                "description": "",
-                "hours": "",
-                "image": "",
-                "name": "The Nighthawk Diner",
-                "phone": "96627327",
-                "provider": "The Nighthawk Diner",
-                "url": "http://www.nighthawkdiner.com/",
-                "vegetarian": true
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    10.7517979,
-                    59.9277305,
-                    0
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address": "Darres gate 2",
-                "description": "",
-                "hours": "",
-                "image": "",
-                "name": "Colonel Mustard",
-                "phone": "21950500",
-                "provider": "Colonel Mustard",
-                "url": "https://www.facebook.com/pages/Colonel-Mustard/101015696657400",
-                "vegetarian": true
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    10.7620947,
-                    59.9341866,
-                    0
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address": "Torshovgata 2",
-                "description": "",
-                "hours": "",
-                "image": "",
-                "name": "Grisen",
-                "phone": "91910411",
-                "provider": "Grisen",
-                "url": "http://oslogrisen.no/",
-                "vegetarian": false
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    10.7485587,
-                    59.915,
-                    0
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address": "Youngstorget 6",
-                "description": "",
-                "hours": "",
-                "image": "",
-                "name": "Fyret mat & drikke",
-                "phone": "22205182",
-                "provider": "Fyret mat & drikke",
-                "url": "https://www.facebook.com/pages/Fyret-mat-drikke/203160776379957",
-                "vegetarian": false
-            },
-            "type": "Feature"
-        }
-    ],
-    "type": "FeatureCollection"
+	"features": [
+		{
+			"geometry": {
+				"coordinates": [
+					10.714843,
+					59.92919,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"address": "Kirkeveien 64B, Oslo",
+				"description": "",
+				"hours": "tirs-tors 16:00-24:00, fre 16:00-02:00, lør 14:00-02:00, søn 14:00-24:00",
+				"image": "",
+				"name": "",
+				"phone": "90 600 333",
+				"provider": "Kverneriet",
+				"url": "http://www.kverneriet.com/oslo.html",
+				"vegetarian": true
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					10.726313,
+					59.910622,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"address": "Holmens gate 3, 0250 Oslo",
+				"description": "",
+				"hours": "man-tirs 11:00-22:00, ons-fre 11:00-24:00, lør 12:00-24:00, søn 12:00-22:00",
+				"image": "",
+				"name": "",
+				"phone": "21 08 22 75",
+				"provider": "Burger Joint",
+				"url": "http://www.burgerjoint.no/",
+				"vegetarian": false
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					10.748721,
+					59.915693,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"address": "Møllergata 23, 0179 Oslo",
+				"description": "",
+				"hours": "mon-tors 16:00-23:00, fri 16:00-01:00, lør 15:00-01:00, søn 15:00-22:00",
+				"image": "",
+				"name": "",
+				"phone": "22203302",
+				"provider": "Illegal Burger",
+				"url": "https://www.facebook.com/pages/Illegal-Burger/171199846244007",
+				"vegetarian": true
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					10.749944,
+					59.914381,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"address": "Folketeaterpassasjen, 0181 Oslo",
+				"description": "",
+				"hours": "tirs-tors 16:00-22:00, fre-lør 16:00-23:00",
+				"image": "",
+				"name": "",
+				"phone": "91158613",
+				"provider": "Burger Bar",
+				"url": "https://www.facebook.com/burgerbaroslo",
+				"vegetarian": true
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					10.7512593,
+					59.9164377,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"address": "Bernt Ankers gate 8",
+				"description": "",
+				"hours": "man-ons 11:00-22:00, tors 11:00-00:00, fre-lør 11:00-03:00 søn 11:00-22:00",
+				"image": "",
+				"name": "",
+				"phone": "97019787",
+				"provider": "Munchies",
+				"url": "http://www.munchiesoslo.no/",
+				"vegetarian": true
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					10.755038,
+					59.9121327,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"address": "Schweigaards gate 4",
+				"description": "",
+				"hours": "man-søn 11:30-22:00",
+				"image": "",
+				"name": "Café Fiasco",
+				"phone": "47174000",
+				"provider": "Café Fiasco",
+				"url": "http://fiasco.no/",
+				"vegetarian": true
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					10.7587495,
+					59.9222621,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"address": "Thorvald Meyers gate 59",
+				"description": "",
+				"hours": "",
+				"image": "",
+				"name": "Ryes Bar",
+				"phone": "",
+				"provider": "Ryes Bar",
+				"url": "https://www.facebook.com/RyesOslo",
+				"vegetarian": true
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					10.7532857,
+					59.9175641,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"address": "Maridalsveien 13",
+				"description": "",
+				"hours": "",
+				"image": "",
+				"name": "Døgnvill Oslo, Vulkan",
+				"phone": "",
+				"provider": "Døgnvill Oslo, Vulkan",
+				"url": "http://dognvillburger.no/oslo/",
+				"vegetarian": true
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					10.7405131,
+					59.9088833,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"address": "Bankplassen 3",
+				"description": "",
+				"hours": "",
+				"image": "",
+				"name": "Grosch",
+				"phone": "21982190",
+				"provider": "Grosch",
+				"url": "http://www.groschcafe.no/",
+				"vegetarian": true
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					10.7244354,
+					59.9093921,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"address": "Bryggetorget 14",
+				"description": "",
+				"hours": "",
+				"image": "",
+				"name": "Beach Club",
+				"phone": "22838382",
+				"provider": "Beach Club",
+				"url": "http://www.beachclub.no/",
+				"vegetarian": true
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					10.7588122,
+					59.9253907,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"address": "Seilduksgata 15",
+				"description": "",
+				"hours": "",
+				"image": "",
+				"name": "The Nighthawk Diner",
+				"phone": "96627327",
+				"provider": "The Nighthawk Diner",
+				"url": "http://www.nighthawkdiner.com/",
+				"vegetarian": true
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					10.7517979,
+					59.9277305,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"address": "Darres gate 2",
+				"description": "",
+				"hours": "",
+				"image": "",
+				"name": "Colonel Mustard",
+				"phone": "21950500",
+				"provider": "Colonel Mustard",
+				"url": "https://www.facebook.com/pages/Colonel-Mustard/101015696657400",
+				"vegetarian": true
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					10.7620947,
+					59.9341866,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"address": "Torshovgata 2",
+				"description": "",
+				"hours": "",
+				"image": "",
+				"name": "Grisen",
+				"phone": "91910411",
+				"provider": "Grisen",
+				"url": "http://oslogrisen.no/",
+				"vegetarian": false
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					10.7485587,
+					59.915,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"address": "Youngstorget 6",
+				"description": "",
+				"hours": "",
+				"image": "",
+				"name": "Fyret mat & drikke",
+				"phone": "22205182",
+				"provider": "Fyret mat & drikke",
+				"url": "https://www.facebook.com/pages/Fyret-mat-drikke/203160776379957",
+				"vegetarian": false
+			},
+			"type": "Feature"
+		}
+	],
+	"type": "FeatureCollection"
 }
