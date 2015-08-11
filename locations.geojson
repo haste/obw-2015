@@ -123,7 +123,7 @@
 								"address": "Schweigaards gate 4",
 								"description": "",
 								"hours": "man-søn 11:30-22:00",
-								"image": "http://fiasco.no/storage/web_skisse_1._768pxgif",
+								"image": "",
 								"name": "Café Fiasco",
 								"phone": "47174000",
 								"provider": "Café Fiasco",
@@ -217,6 +217,72 @@
                 "provider": "Beach Club",
                 "url": "http://www.beachclub.no/",
                 "vegetarian": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.7588122,
+                    59.9253907,
+                    0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Seilduksgata 15",
+                "description": "",
+                "hours": "",
+                "image": "",
+                "name": "The Nighthawk Diner",
+                "phone": "96627327",
+                "provider": "The Nighthawk Diner",
+                "url": "http://www.nighthawkdiner.com/",
+                "vegetarian": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.7517979,
+                    59.9277305,
+                    0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Darres gate 2",
+                "description": "",
+                "hours": "",
+                "image": "",
+                "name": "Colonel Mustard",
+                "phone": "21950500",
+                "provider": "Colonel Mustard",
+                "url": "https://www.facebook.com/pages/Colonel-Mustard/101015696657400",
+                "vegetarian": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.7620947,
+                    59.9341866,
+                    0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Torshovgata 2",
+                "description": "",
+                "hours": "",
+                "image": "",
+                "name": "Grisen",
+                "phone": "91910411",
+                "provider": "Grisen",
+                "url": "http://oslogrisen.no/",
+                "vegetarian": false
             },
             "type": "Feature"
         }
