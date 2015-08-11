@@ -1,0 +1,94 @@
+{
+	"features": [
+	{
+		"geometry": {
+			"coordinates": [
+				10.714843,
+				59.929190,
+				0
+			],
+			"type": "Point"
+		},
+		"properties": {
+			"address": "Kirkeveien 64B, Oslo",
+			"description": "",
+			"hours": "tirs-tors 16:00-24:00, fre 16:00-02:00, lør 14:00-02:00, søn 14:00-24:00",
+			"image": "",
+			"name": "",
+			"phone": "90 600 333",
+			"provider": "Kverneriet",
+			"url": "http://www.kverneriet.com/oslo.html",
+			"vegetarian": true
+		},
+		"type": "Feature"
+	},
+
+	{
+		"geometry": {
+			"coordinates": [
+				10.726313,
+				59.910622,
+				0
+			],
+			"type": "Point"
+		},
+		"properties": {
+			"address": "Holmens gate 3, 0250 Oslo",
+			"description": "",
+			"hours": "man-tirs 11:00-22:00, ons-fre 11:00-24:00, lør 12:00-24:00, søn 12:00-22:00",
+			"image": "",
+			"name": "",
+			"phone": "21 08 22 75",
+			"provider": "Burger Joint",
+			"url": "http://www.burgerjoint.no/",
+			"vegetarian": false
+		},
+		"type": "Feature"
+	},
+	{
+		"geometry": {
+			"coordinates": [
+				10.748721,
+				59.915693,
+				0
+			],
+			"type": "Point"
+		},
+		"properties": {
+			"address": "Møllergata 23, 0179 Oslo",
+			"description": "",
+			"hours": "mon-tors 16:00-23:00, fri 16:00-01:00, lør 15:00-01:00, søn 15:00-22:00",
+			"image": "",
+			"name": "",
+			"phone": "22203302",
+			"provider": "Illegal Burger",
+			"url": "https://www.facebook.com/pages/Illegal-Burger/171199846244007",
+			"vegetarian": true
+		},
+		"type": "Feature"
+	},
+	{
+		"geometry": {
+			"coordinates": [
+				10.749944,
+				59.914381,
+				0
+			],
+			"type": "Point"
+		},
+		"properties": {
+			"address": "Folketeaterpassasjen, 0181 Oslo",
+			"description": "",
+			"hours": "tirs-tors 16:00-22:00, fre-lør 16:00-23:00",
+			"image": "",
+			"name": "",
+			"phone": "91158613",
+			"provider": "Burger Bar",
+			"url": "https://www.facebook.com/burgerbaroslo",
+			"vegetarian": true
+		},
+		"type": "Feature"
+	}
+	],
+	"type": "FeatureCollection"
+}
