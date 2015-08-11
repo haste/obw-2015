@@ -131,7 +131,29 @@
 								"vegetarian": true
 						},
 						"type": "Feature"
-				}
+				},
+        {
+            "geometry": {
+                "coordinates": [
+                    10.7587495,
+                    59.9222621,
+                    0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Thorvald Meyers gate 59",
+                "description": "",
+                "hours": "",
+                "image": "",
+                "name": "Ryes Bar",
+                "phone": "",
+                "provider": "Ryes Bar",
+                "url": "https://www.facebook.com/RyesOslo",
+                "vegetarian": true
+            },
+            "type": "Feature"
+        }
     ],
     "type": "FeatureCollection"
 }
