@@ -100,12 +100,34 @@
 						"properties": {
 								"address": "Bernt Ankers gate 8",
 								"description": "",
-								"hours": "man-tors 11:00-22:00, fre-lør 11:00-03:00",
+								"hours": "man-ons 11:00-22:00, tors 11:00-00:00, fre-lør 11:00-03:00 søn 11:00-22:00",
 								"image": "",
 								"name": "",
 								"phone": "97019787",
 								"provider": "Munchies",
 								"url": "http://www.munchiesoslo.no/",
+								"vegetarian": true
+						},
+						"type": "Feature"
+				},
+				{
+						"geometry": {
+								"coordinates": [
+										10.755038,
+										59.9121327,
+										0
+								],
+								"type": "Point"
+						},
+						"properties": {
+								"address": "Schweigaards gate 4",
+								"description": "",
+								"hours": "man-søn 11:30-22:00",
+								"image": "http://fiasco.no/storage/web_skisse_1._768pxgif",
+								"name": "Café Fiasco",
+								"phone": "47174000",
+								"provider": "Café Fiasco",
+								"url": "http://fiasco.no/",
 								"vegetarian": true
 						},
 						"type": "Feature"
