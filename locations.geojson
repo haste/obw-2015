@@ -285,6 +285,28 @@
                 "vegetarian": false
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.7485587,
+                    59.915,
+                    0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Youngstorget 6",
+                "description": "",
+                "hours": "",
+                "image": "",
+                "name": "Fyret mat & drikke",
+                "phone": "22205182",
+                "provider": "Fyret mat & drikke",
+                "url": "https://www.facebook.com/pages/Fyret-mat-drikke/203160776379957",
+                "vegetarian": false
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
