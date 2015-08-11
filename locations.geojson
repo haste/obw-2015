@@ -87,7 +87,29 @@
                 "vegetarian": true
             },
             "type": "Feature"
-        }
+        },
+				{
+						"geometry": {
+								"coordinates": [
+										10.7512593,
+										59.9164377,
+										0
+								],
+								"type": "Point"
+						},
+						"properties": {
+								"address": "Bernt Ankers gate 8",
+								"description": "",
+								"hours": "man-tors 11:00-22:00, fre-lør 11:00-03:00",
+								"image": "",
+								"name": "",
+								"phone": "97019787",
+								"provider": "Munchies",
+								"url": "http://www.munchiesoslo.no/",
+								"vegetarian": true
+						},
+						"type": "Feature"
+				}
     ],
     "type": "FeatureCollection"
 }
