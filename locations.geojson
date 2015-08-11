@@ -153,6 +153,72 @@
                 "vegetarian": true
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.7532857,
+                    59.9175641,
+                    0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Maridalsveien 13",
+                "description": "",
+                "hours": "",
+                "image": "",
+                "name": "Døgnvill Oslo, Vulkan",
+                "phone": "",
+                "provider": "Døgnvill Oslo, Vulkan",
+                "url": "http://dognvillburger.no/oslo/",
+                "vegetarian": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.7405131,
+                    59.9088833,
+                    0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Bankplassen 3",
+                "description": "",
+                "hours": "",
+                "image": "",
+                "name": "Grosch",
+                "phone": "21982190",
+                "provider": "Grosch",
+                "url": "http://www.groschcafe.no/",
+                "vegetarian": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.7244354,
+                    59.9093921,
+                    0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Bryggetorget 14",
+                "description": "",
+                "hours": "",
+                "image": "",
+                "name": "Beach Club",
+                "phone": "22838382",
+                "provider": "Beach Club",
+                "url": "http://www.beachclub.no/",
+                "vegetarian": true
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
