@@ -3,6 +3,28 @@
 		{
 			"geometry": {
 				"coordinates": [
+					10.7471237,
+					59.9111763,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"address": "Skippergata 32, Oslo",
+				"description": "",
+				"hours": "",
+				"image": "",
+				"name": "",
+				"phone": "",
+				"provider": "Tommi's Burger Joint Osloj",
+				"url": "",
+				"vegetarian": true
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
 					10.714843,
 					59.92919,
 					0
